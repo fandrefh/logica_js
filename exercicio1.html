@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Exercícios</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<h1>Exercício 1</h1>
+	<h2>Números pares entre 0 e 100</h2>
+	<script type="text/javascript">
+		var numero = 0;
+		while (numero <= 100) {
+			if (numero % 2 == 0) {
+				document.write("Usando while: " + numero + "<br>");
+			} 
+			numero += 1;
+		}
+		document.write("<hr>")
+		for (var i = 0; i <= 100; i++) {
+			if (i % 2 == 0) {
+				document.write("Usando for: " + i + "<br>");
+			}
+		}
+	</script>
+</body>
+</html>

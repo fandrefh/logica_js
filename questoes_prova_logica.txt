@@ -1,0 +1,12 @@
+Atividade Final - PGW (26/02/2015)
+
+1 - Leia dois números, efetue a soma entre eles e exiba o resultado.
+2 - Usando como base o resultado da questão anterior, informe se este é ou não um número par.
+3 - Explique o que é um função e quais suas vantagens.
+4 - O que são parâmetros e para que servem?
+5 - Escreva um algorítimo que leia a idade de uma pessoa e diga se ela pode ou não entrar na balada, as idades permitidas são: 18 anos, pode entrar na balada, 16 anos, só com acompanhante, menor que 16 anos, vai pra casa dormir.
+6 - O que são variáveis e para servem?
+7 - Explique lógica de programação.
+8 - O que é algorítimo?
+9 - O que são os operadores aritméticos?
+10 - O que são os operadores de comparação?
